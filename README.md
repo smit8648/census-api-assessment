@@ -16,7 +16,7 @@ The file titled 'census-api-parker' will provide you with the data from Business
 The file titled 'assessment' accesses the Company Summary API information, providing data regarding ownership demographics. The assessment file generates visualizations regarding race and sex of business owners in metro area, and is represented by the last three figures within the 'Visualizations' section of the final report. 
 
 'Companies':
-The file titled 'companies' also accesses the Company Summary dataset, and cleans and instantiates the fourth, fifth, and sixth figures within the 'Sizualistaions' sections of the final report. These figures further detail company summery demographics, such as race demographics of employees, annual pay ratios per company, and an aggregation of the top 20 annual pay statements.
+The file titled 'companies' also accesses the Company Summary dataset, and cleans and instantiates the fourth, fifth, and sixth figures within the 'Vizualistaions' sections of the final report. These figures further detail company summery demographics, such as race demographics of employees, annual pay ratios per company, and an aggregation of the top 20 annual pay statements.
 
 'Final Report':
 The final report is a summary and conclusion of our data exploration within the Annual Business Survey APIs. It details our methods of retrieving, cleaning, and accurately vizualising our data to represent statistically-significant information within the set. 
